@@ -1,0 +1,1 @@
+Felder, Martin & Kaifel, Anton & Graves, Alex. (2010). Wind power prediction using mixture density recurrent neural networks. 
