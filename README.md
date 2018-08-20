@@ -1,5 +1,5 @@
 # LSTM-Wind-Speed-Forecasting
-No presente artigo é proposto um modelo híbrido capaz de realizar previsão de velocidade do vento (médias mensais e
+Projeto proposto de um modelo híbrido capaz de realizar previsão de velocidade do vento (médias mensais e
 horárias) com boa acurácia em regiões do nordeste brasileiro. Este modelo é elaborado a partir da combinação entre dois
 modelos, o Auto-Regressivo Integrado de Médias Móveis com entradas de Variáveis Exógenas (ARIMAX) e Redes
 Neurais Artificias (RNA). A escolha por estes modelos foi motivada pelo fato de que os mesmos conseguem incorporar
